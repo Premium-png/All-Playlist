@@ -21,6 +21,9 @@ PLAYLISTS = [
 OUTPUT_FILE = "combined.m3u"
 EPG_URL = "https://www.tsepg.cf/epg.xml.gz"
 
+# ------------------ SUFFIX FOR ALL CATEGORIES ------------------
+SPORTLINK_SUFFIX = " | Sportlink"
+
 # ------------------ CATEGORY OVERRIDE PER SOURCE ------------------
 SOURCE_CATEGORY_OVERRIDE = {
     "FANCODE":     "Fancode",
@@ -73,15 +76,15 @@ DEFAULT_CATEGORY = "Other"
 
 # ------------------ CATEGORY ORDER (first = top) ------------------
 CATEGORY_ORDER = [
-    "Sports Special",
-    "Live Events",
-    "Fancode",
-    "SonyLIV",
-    "Willow",
-    "Prime Video",
-    "AXS",
-    "Hotstar",
-    "Jio Hotstar",
+    "Sports Special | Sportlink",
+    "Live Events | Sportlink",
+    "Fancode | Sportlink",
+    "SonyLIV | Sportlink",
+    "Willow | Sportlink",
+    "Prime Video | Sportlink",
+    "AXS | Sportlink",
+    "Hotstar | Sportlink",
+    "Jio Hotstar | Sportlink",
 ]
 
 # ------------------ HELPER FUNCTIONS ------------------
@@ -166,10 +169,13 @@ def main():
 
         for block in extract_channel_blocks(lines):
             if override_cat:
-                category = override_cat
+                base_category = override_cat
             else:
                 title = get_channel_title(block)
-                category = categorize_channel(title)
+                base_category = categorize_channel(title)
+
+            # Append Sportlink suffix to every category
+            category = f"{base_category}{SPORTLINK_SUFFIX}"
             all_channels.append((category, block))
 
     # Group by category
