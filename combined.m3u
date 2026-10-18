@@ -1,30 +1,42 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (3 channels) =====
+#===== Fancode | Sportlink (7 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 18 October 2026 at 9:49:13 am
+#DATE:- Sunday, 18 October 2026 at 2:35:10 pm
 
-#EXTINF:-1 tvg-id="4249799" tvg-name="Adelaide Strikers Women Vs Brisbane Heat Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249799_53097_BH-W_AS-W_FC-Web_1791883788852.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Adelaide Strikers Women Vs Brisbane Heat Women
-https://dai-fancode.pages.dev/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249782" tvg-name="South Africa Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | South Africa Vs Australia
+https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f43134_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4249800" tvg-name="Perth Scorchers Women Vs Sydney Thunder Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249800_53097_ST-W_PS-W_FC-Web_1791883788884.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Perth Scorchers Women Vs Sydney Thunder Women
-https://dai-fancode.pages.dev/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250161" tvg-name="New Zealand Women Vs Australia Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-New-ZealandT20I-Series-old-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | New Zealand Women Vs Australia Women
+https://dai-fancode.pages.dev/mumbai/4250161_english_hls_a3c45a940c84523_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250212" tvg-name="Uganda A Vs Jersey" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Uganda A Vs Jersey
+https://dai-fancode.pages.dev/mumbai/4250212_english_hls_caf8bc89be97545_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249801" tvg-name="Sydney Sixers Women Vs Melbourne Stars Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249801_53097_SS-W_MS-W_FC-Web_1791883788158.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Sydney Sixers Women Vs Melbourne Stars Women
+https://dai-fancode.pages.dev/mumbai/4249801_english_hls_5ad2cef28346232_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250231" tvg-name="Thcc Rot Gelb Hamburg Vs Koln Cc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250223_53117_KCC_THCC_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Thcc Rot Gelb Hamburg Vs Koln Cc
+https://dai-fancode.pages.dev/mumbai/4250231_english_hls_21a636fdad79404_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4248853" tvg-name="Final: A. Fokina Vs R. Jodar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Alejandro_Web-match-card_1792307949621.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Final: A. Fokina Vs R. Jodar
+https://dai-fancode.pages.dev/mumbai/4248853_english_hls_f1cbb2304447378_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #===== SonyLIV | Sportlink (1 channels) =====
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", SJM Macao Open - Day 4 - 18 Oct 2026 [ENG] - Asian Tour 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792342110~acl=/*~id=54704027044594682338780204474924~hmac=b7f8c6d0a1338b650d6b2489fdf98c86c72fed7176a494a48a6c2faac4901699
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", DP World India Championship - Day 4 - 18 Oct 2026 [ENG] - DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792358475~acl=/*~id=02524615312056364147808183288252~hmac=4a904081fea311f2a1cee2ad883cb4c14a9e7f0d94225b052238507e479d141a
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:32 AM 18-10-2026
+#LAST_UPDATE:03:02 PM 18-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:15
+#LIVE_COUNT:2
+#UPCOMING_COUNT:14
 
 #===== Prime Video | Sportlink (1 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:10:32 AM 18-10-2026
+#LAST_UPDATE:03:02 PM 18-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
