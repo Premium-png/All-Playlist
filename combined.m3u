@@ -1,61 +1,38 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (11 channels) =====
+#===== Fancode | Sportlink (1 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Wednesday, 28 October 2026 at 11:56:26 pm
-
-#EXTINF:-1 tvg-id="4250491" tvg-name="Abu Dhabi Vs Emirates Blues" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250491_53130_EMB_ABD_fc-web_1792412929359.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Abu Dhabi Vs Emirates Blues
-https://dai-fancode.pages.dev/mumbai/4250491_english_hls_ef31c7005664929_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249486" tvg-name="Chelsea F.c. Women Vs Roma Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249486_53078_CHE-W_ROM-W_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Chelsea F.c. Women Vs Roma Women
-https://dai-fancode.pages.dev/mumbai/4249486_english_hls_b07624f96877630_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249487" tvg-name="Bayern Munich Women Vs Real Madrid Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249487_53078_BAY-W_RM-W_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Bayern Munich Women Vs Real Madrid Women
-https://dai-fancode.pages.dev/mumbai/4249487_english_hls_86ca4456f695852_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249488" tvg-name="Servette Women Vs Oud Heverlee Leuven Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249488_53078_SVT-W_OHL-W_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Servette Women Vs Oud Heverlee Leuven Women
-https://dai-fancode.pages.dev/mumbai/4249488_english_hls_b2011e3f7918062_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4248986" tvg-name="Al Khaldiya Sc Vs Al Wahda" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248986_53057_ALK_ALW_fc-web_1789025065400.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Al Khaldiya Sc Vs Al Wahda
-https://dai-fancode.pages.dev/mumbai/4248986_english_hls_b2b0c3704776877_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4248990" tvg-name="Al Faisaly Vs Al Taawoun Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248990_53057_ALF_ALTW_fc-web_1789025065473.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Al Faisaly Vs Al Taawoun Fc
-https://dai-fancode.pages.dev/mumbai/4248990_english_hls_f7920e7d1151984_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249651" tvg-name="Iwb Court 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Iwb Court 1
-https://dai-fancode.pages.dev/mumbai/4249651_english_hls_f9093ad69c81693_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249630" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | World Feed
-https://dai-fancode.pages.dev/mumbai/4249630_english_hls_b555b035dd59328_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249637" tvg-name="Glaubandich Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Glaubandich Court
-https://dai-fancode.pages.dev/mumbai/4249637_english_hls_dc36a35c8a10890_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249644" tvg-name="N. Djokovic Vs U. Humbert" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Djo_WEB.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | N. Djokovic Vs U. Humbert
-https://dai-fancode.pages.dev/mumbai/4249644_english_hls_8d8e73c39974541_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+# Last Checked: Thursday, 29 October 2026 at 4:21:18 am
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:32 AM 29-10-2026
+#LAST_UPDATE:05:02 AM 29-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
 #UPCOMING_COUNT:20
 
-#===== Prime Video | Sportlink (2 channels) =====
+#===== Prime Video | Sportlink (3 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:32 AM 29-10-2026
+#LAST_UPDATE:05:02 AM 29-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
+#LIVE_COUNT:6
 #UPCOMING_COUNT:0
 
-#EXTINF:-1 tvg-id="B0GTZ7LJPW" tvg-name="Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e4d692f-7ce1-44cf-b8ce-08555a51d32b/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Tennis Today Live-Basel-ATP & Vienna-ATP Early Rounds
+#EXTINF:-1 tvg-id="B0HL65DHCC" tvg-name="ECHL Hockey: Trenton Ironhawks vs Reading Royals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f8db5aff-af16-43e2-9639-853eb3802169/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",ECHL Hockey: Trenton Ironhawks vs Reading Royals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HNN3J85W" tvg-name="Canadian Open, Day 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.364e5cab-c12f-4794-aa90-e453c6c2eab4/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Canadian Open, Day 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 #===== AXS | Sportlink (1 channels) =====
 #name: Axsports Auto Update Playlist
