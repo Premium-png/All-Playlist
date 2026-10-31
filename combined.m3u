@@ -1,97 +1,108 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (10 channels) =====
+#===== Fancode | Sportlink (8 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 31 October 2026 at 10:49:17 am
+#DATE:- Saturday, 31 October 2026 at 4:07:15 pm
 
-#EXTINF:-1 tvg-id="4250526" tvg-name="Bangladesh Vs West Indies" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Bangladesh Vs West Indies
-https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3062034_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249669" tvg-name="Tasmania Vs New South Wales" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Tasmania Vs New South Wales
-https://dai-fancode.pages.dev/mumbai/4249669_english_hls_0ad52e993378592_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249670" tvg-name="Victoria Vs Queensland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Victoria Vs Queensland
-https://dai-fancode.pages.dev/mumbai/4249670_english_hls_72230a09d416519_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250320" tvg-name="England Vs India" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ENG-vs-IND_fc-web_1793419761524.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | England Vs India
-https://dai-fancode.pages.dev/mumbai/4250320_english_hls_ef27833a9871797_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250390" tvg-name="Adelaide Strikers Women Vs Melbourne Stars Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250390_53125_AS-W_MS-W_fc-web_1793352701243.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Adelaide Strikers Women Vs Melbourne Stars Women
-https://dai-fancode.pages.dev/mumbai/4250390_english_hls_032d3a160a8611_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250321" tvg-name="Sri Lanka Vs Oman" tvg-logo="https://images.fancode.com/aig/match/v1793417380558/4250321_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Sri Lanka Vs Oman
-https://dai-fancode.pages.dev/mumbai/4250321_english_hls_57dfe01e8335283_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249783" tvg-name="South Africa Vs Australia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | South Africa Vs Australia
+https://dai-fancode.pages.dev/mumbai/4249783_english_hls_97c5a4780024185_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250519" tvg-name="Netherlands Vs United Arab Emirates" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Netherlands Vs United Arab Emirates
 https://dai-fancode.pages.dev/mumbai/4250519_english_hls_52d639dd0845065_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="139982" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 2
-https://dai-fancode.pages.dev/mumbai/139982_english_hls_db06becffb50637_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250349" tvg-name="Kenya Vs Papua New Guinea" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Kenya Vs Papua New Guinea
+https://dai-fancode.pages.dev/mumbai/4250349_english_hls_a784cd9b8693638_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4249847" tvg-name="Newcastle Jets Vs Wellington Phoenix" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249847_53101_NJ_WEL_fc-Web_1792223294133.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Newcastle Jets Vs Wellington Phoenix
-https://dai-fancode.pages.dev/mumbai/4249847_english_hls_36204caf6f86869_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250350" tvg-name="Qatar Vs Jersey" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Qatar Vs Jersey
+https://dai-fancode.pages.dev/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (1 channels) =====
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793466473~acl=/*~id=98693640065065205134383184329974~hmac=c21a8ab55d645e0322631b79994699d49e821ba915ba20bb72c8a257e68dd3d2
+#EXTINF:-1 tvg-id="4250391" tvg-name="Melbourne Renegades Women Vs Perth Scorchers Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250391_53125_PS-W_MR-W_fc-web_1793352701283.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Melbourne Renegades Women Vs Perth Scorchers Women
+https://dai-fancode.pages.dev/mumbai/4250391_english_hls_9173e82c8482158_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== Willow | Sportlink (3 channels) =====
+#EXTINF:-1 tvg-id="4250543" tvg-name="Himachal Highlenders Vs Uttrakhand Stars" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Himachal Highlenders Vs Uttrakhand Stars
+https://dai-fancode.pages.dev/mumbai/4250543_english_hls_d65f11609f74646_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249849" tvg-name="Macarthur Vs Western Sydney Wanderers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249849_53101_MAC_SYW_fc-Web_1792223293101.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Macarthur Vs Western Sydney Wanderers
+https://dai-fancode.pages.dev/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#===== Willow | Sportlink (4 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 AM 31-10-2026
+#LAST_UPDATE:05:02 PM 31-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
-#EXTINF:-1 tvg-id="B0HLZ4VQPQ" tvg-name="Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bcd78a9-701e-4b82-a7b4-b4c98580e6ac/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women
+#EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HMLYWN5Q" tvg-name="Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f6d7d22d-e9b7-436e-885e-68eee5ed2f44/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India
+#EXTINF:-1 tvg-id="B0HP445XSZ" tvg-name="Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.585cf604-276f-4a0d-8d72-73b6136cd9fb/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15333933304154f97c20ec7fe8921517:b03f8c42cbdc7ce3ff4ffe882bc2d47d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
 
-#===== Prime Video | Sportlink (5 channels) =====
+#EXTINF:-1 tvg-id="B0HNGCKJ18" tvg-name="Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.473de08a-bbf3-4dd2-9f27-d805debb9f93/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5rs9chknls/out/v1/84d18f950b7144af8b9f54919ca5d481/cenc.mpd
+
+#===== Prime Video | Sportlink (7 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:02 AM 31-10-2026
+#LAST_UPDATE:05:02 PM 31-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:5
+#LIVE_COUNT:7
 #UPCOMING_COUNT:0
 
-#EXTINF:-1 tvg-id="B0HP1BG9N4" tvg-name="Petronas Grand Prix of Malaysia, Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a92c755c-d224-4710-8cbf-7b9fc6112d33/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Petronas Grand Prix of Malaysia, Qualifying
+#EXTINF:-1 tvg-id="B0HP445XSZ" tvg-name="Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.585cf604-276f-4a0d-8d72-73b6136cd9fb/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://ABCQQJ3AAAAAAAAMNW75TXX2HSLGP.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBpq-RnGBhpq5VNGA2pjbG91ZGZyb250AngoZmlkOjAxYTE4ZmNkLTRkMWEtNzQ5Ny04ZWZjLWNiMDcyODE2MGIwORkBOKEFoQJ4My9tczIzZnNlcXhmL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMlggmKiEeGBr1gcD4qdSK2mZgnyGReow2cYVxx-BXJffhEg/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ms23fseqxf/out/v1/30f3ad9ba2c340739ea2943f29d44b32/a22cb49d-630b-4622-8aea-2407e2640716-cenc.mpd?aws.sessionId=4796439a-0d26-4bae-a317-a8495aeee2b2
+#KODIPROP:inputstream.adaptive.license_key=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HMLYWN5Q" tvg-name="Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f6d7d22d-e9b7-436e-885e-68eee5ed2f44/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Hong Kong Sixes 2026 - Bowl Semi Final 2- England vs India
+#EXTINF:-1 tvg-id="B0HPLD3B2D" tvg-name="LIVE: HotelPlanner Final 2026 Day 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b5d98c54-a92d-4993-a4f7-44e80ede4f3e/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",LIVE: HotelPlanner Final 2026 Day 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15333933304154f97c20ec7fe8921517:b03f8c42cbdc7ce3ff4ffe882bc2d47d
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lflfskcirt/out/v1/d4b7a8cb630b4beb8c976c31913e27e8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HN74MMM4" tvg-name="Cricket-WBBL 2026: Strikers vs Stars - 4th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.814fcd40-8961-4e84-abcd-ba91b823f6f6/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Cricket-WBBL 2026: Strikers vs Stars - 4th Match
+#EXTINF:-1 tvg-id="B0HN7TKWTX" tvg-name="EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54acd68c-aa00-48d5-8eee-8df4dde8932c/14/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video | Sportlink",EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HKDPRJRS" tvg-name="Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a790a3-51e9-4ec1-9a8b-cb632845af2d/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Australia tour of South Africa 2026 - 3rd Test - South Africa vs Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HNGCKJ18" tvg-name="Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.473de08a-bbf3-4dd2-9f27-d805debb9f93/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Womens Big Bash League 2026 - 5th Match - Perth Scorchers Women vs Melbourne Renegades Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5rs9chknls/out/v1/84d18f950b7144af8b9f54919ca5d481/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HN7WRZQY" tvg-name="Cricket-WBBL 2026: Scorchers vs Renegades - 5th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.06563ac3-08a7-4fce-b412-8174d5b752fc/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Cricket-WBBL 2026: Scorchers vs Renegades - 5th Match
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HLZ4VQPQ" tvg-name="Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bcd78a9-701e-4b82-a7b4-b4c98580e6ac/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Womens Big Bash League 2026 - 4th Match - Adelaide Strikers Women vs Melbourne Stars Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #===== AXS | Sportlink (1 channels) =====
 #name: Axsports Auto Update Playlist
