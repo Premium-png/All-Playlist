@@ -1,42 +1,30 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (6 channels) =====
+#===== Fancode | Sportlink (2 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Monday, 2 November 2026 at 1:42:14 am
+#DATE:- Monday, 2 November 2026 at 6:00:12 am
 
-#EXTINF:-1 tvg-id="4247675" tvg-name="Athletic Club Vs Real Sociedad" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247675_53004_ATH_RS_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Athletic Club Vs Real Sociedad
-https://dai-fancode.pages.dev/mumbai/4247675_english_hls_ca07032c1738959_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="139511" tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Race
-https://dai-fancode.pages.dev/mumbai/139511_english_hls_b176a147c035490_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="139511" tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg" tvg-language="Hindi" group-title="Fancode | Sportlink",HIN | Race
-https://dai-fancode.pages.dev/mumbai/139511_hindi_hls_a6cb54363d37600_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="139511" tvg-name="Race" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg" tvg-language="Tamil" group-title="Fancode | Sportlink",TAM | Race
-https://dai-fancode.pages.dev/mumbai/139511_tamil_hls_326caee4ab94903_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250511" tvg-name="Day 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 4
-https://dai-fancode.pages.dev/mumbai/4250511_english_hls_91146ecc6c34862_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249670" tvg-name="Victoria Vs Queensland" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Victoria Vs Queensland
+https://dai-fancode.pages.dev/mumbai/4249670_english_hls_72230a09d473711_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd Unofficial Test - Day 3 - 2 Nov 2026 [ENG] - India A Tour of New Zealand
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793612702~acl=/*~id=83134856019763551603353232866602~hmac=be7cbb65cd4caaff3b878e6ae3e95b0c5118f147983adb8e1ccf86fbd27e1d88
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793625419~acl=/*~id=06952946619076706296748014949494~hmac=19600edc3c43ba3c86c2aadb67d7ab490cf260a7add27a534f6821212149fd23
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 AM 02-11-2026
+#LAST_UPDATE:07:02 AM 02-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
 #UPCOMING_COUNT:20
 
-#===== Prime Video | Sportlink (6 channels) =====
+#===== Prime Video | Sportlink (4 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:32 AM 02-11-2026
+#LAST_UPDATE:07:02 AM 02-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:6
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0HPGCLTM9" tvg-name="El Salvador, Finals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a90a4a21-e20e-4e06-9304-50cb3efb9294/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",El Salvador, Finals
@@ -44,35 +32,21 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0111/ENG/std_lrh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HN7TKWTX" tvg-name="EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.54acd68c-aa00-48d5-8eee-8df4dde8932c/14/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png" group-title="Prime Video | Sportlink",EuroTour Spanish Open Billiards-2026 Predator EuroTour: Spanish Open
+#EXTINF:-1 tvg-id="B0HP7LXDKF" tvg-name="USHL Hockey: Fargo Force vs Sioux City Musketeers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.79b12d1c-5094-4fed-98a5-dc6d69b2a364/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",USHL Hockey: Fargo Force vs Sioux City Musketeers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HNTVDG7Y" tvg-name="Monster Jam LIVE-LIVE: Monster Jam from Glendale, AZ - 11/01/2026" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.32784dbe-3718-4d7e-8550-0f6deb45bce1/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Monster Jam LIVE-LIVE: Monster Jam from Glendale, AZ - 11/01/2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6335da4b1ce142c1c6c1156b713e9dd9:bd62fe6319a61a5a6f798213f1dda0b9
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HPF8VLSD" tvg-name="MLP Nations Cup-2026: Day 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c1d56fc6-fd0e-4a79-9f6a-c03c6b8fa8fa/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",MLP Nations Cup-2026: Day 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HNV7VJLX" tvg-name="Pau vs Toulouse - Rugby" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c0433ff5-f12f-4b57-a3a8-84b33fc92521/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Pau vs Toulouse - Rugby
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hrgfarhfhm/out/v1/5bc621696020445591a65f408b0da0f9/cenc.mpd
 
 #===== AXS | Sportlink (1 channels) =====
 #name: Axsports Auto Update Playlist
