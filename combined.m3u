@@ -2,22 +2,22 @@
 #===== Fancode | Sportlink (10 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Wednesday, 4 November 2026 at 1:49:14 pm
+#DATE:- Wednesday, 4 November 2026 at 10:21:15 pm
 
-#EXTINF:-1 tvg-id="4250521" tvg-name="United Arab Emirates Vs Oman" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | United Arab Emirates Vs Oman
-https://dai-fancode.pages.dev/mumbai/4250521_english_hls_67c3c2083472952_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250505" tvg-name="Emirates Blues Vs Dubai" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250478_53130_EMB_DUB_fc-web_1792412930104.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Emirates Blues Vs Dubai
+https://dai-fancode.pages.dev/mumbai/4250505_english_hls_9676cf97c769870_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4250395" tvg-name="Hobart Hurricanes Women Vs Melbourne Renegades Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250395_53125_HB-W_MR-W_fc-web_1793352702028.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Hobart Hurricanes Women Vs Melbourne Renegades Women
-https://dai-fancode.pages.dev/mumbai/4250395_english_hls_e4b3957daa9486_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250205" tvg-name="England Lions Vs West Indies A" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | England Lions Vs West Indies A
+https://dai-fancode.pages.dev/mumbai/4250205_english_hls_244f9fb97051201_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4249009" tvg-name="Melbourne Victory Vs Persib Bandung" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249009_53057_MLV_PER_fc-web_1789025065711.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Melbourne Victory Vs Persib Bandung
-https://dai-fancode.pages.dev/mumbai/4249009_english_hls_3cee20df9032217_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249001" tvg-name="Al Wahda Vs Al Khaldiya Sc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249001_53057_ALW_ALK_fc-web_1789025065744.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Al Wahda Vs Al Khaldiya Sc
+https://dai-fancode.pages.dev/mumbai/4249001_english_hls_e3b5c6a4325945_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4250250" tvg-name="Bam Khatoon Fc Vs Naegohyang Women's Fc" tvg-logo="https://images.fancode.com/aig/match/v1793533399050/4250250_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Bam Khatoon Fc Vs Naegohyang Women's Fc
-https://dai-fancode.pages.dev/mumbai/4250250_english_hls_d3bc5c7ed325175_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249002" tvg-name="Kuwait Sc Vs Pfc Nasaf" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249002_53057_KSC_NAS_fc-web_1789025065843.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Kuwait Sc Vs Pfc Nasaf
+https://dai-fancode.pages.dev/mumbai/4249002_english_hls_52264b15d375518_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4250256" tvg-name="4.25 Sc Women Vs Ho Chi Minh City Women" tvg-logo="https://images.fancode.com/aig/match/v1793533399050/4250256_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | 4.25 Sc Women Vs Ho Chi Minh City Women
-https://dai-fancode.pages.dev/mumbai/4250256_english_hls_debc0d36fb68671_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249005" tvg-name="Al Rayyan Vs Al Nahda Club" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249005_53057_RAY_ALN_fc-web_1789025065846.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Al Rayyan Vs Al Nahda Club
+https://dai-fancode.pages.dev/mumbai/4249005_english_hls_265fc86f9b27016_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250555" tvg-name="Court 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Court 2
 https://dai-fancode.pages.dev/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -25,78 +25,69 @@ https://dai-fancode.pages.dev/mumbai/4250555_english_hls_2f6e1265bd94660_1ta-di_
 #EXTINF:-1 tvg-id="4250556" tvg-name="Court 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Court 1
 https://dai-fancode.pages.dev/mumbai/4250556_english_hls_29cd6c5f7087053_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4250557" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | World Feed
+#EXTINF:-1 tvg-id="4250557" tvg-name="Djokovic Vs Hijikata" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Novak-Djokovic-vs-Rinky-Hijikata_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Djokovic Vs Hijikata
 https://dai-fancode.pages.dev/mumbai/4250557_english_hls_f271ef0bfa17291_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250558" tvg-name="Court 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Court 3
 https://dai-fancode.pages.dev/mumbai/4250558_english_hls_ce2c31320352771_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (5 channels) =====
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st ODI - 4 Nov 2026 [ENG] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/out/v1/mpchgp431f/mpch8947/cricodi_0311-eng-3-ts-hls/master.m3u8?hdnea=exp=1793825710~acl=/*~id=58435287794788589925935872309888~hmac=c97df0ac92136d30cf24972d77b0728239070f276b2cd1f602391ae5cf74b37d
+#===== SonyLIV | Sportlink (2 channels) =====
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Stade Rennais FC vs Olympiacos FC - 4 Nov 2026 [ENG] - UEFA Europa League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793852595~acl=/*~id=80159065691606672157671981486315~hmac=0139344256b772e4099c9db4c75a5322c41141e61e23c9990fbec27d7b207cea
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st ODI - 4 Nov 2026 [TAM] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/master.m3u8?hdnea=exp=1793825710~acl=/*~id=58435287794788589925935872309888~hmac=c97df0ac92136d30cf24972d77b0728239070f276b2cd1f602391ae5cf74b37d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Dortmund vs Real Betis - 4 Nov 2026 [ENG] - UEFA Youth League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793852595~acl=/*~id=80159065691606672157671981486315~hmac=0139344256b772e4099c9db4c75a5322c41141e61e23c9990fbec27d7b207cea
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st ODI - 4 Nov 2026 [HIN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/master.m3u8?hdnea=exp=1793825710~acl=/*~id=58435287794788589925935872309888~hmac=c97df0ac92136d30cf24972d77b0728239070f276b2cd1f602391ae5cf74b37d
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st ODI - 4 Nov 2026 [KAN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/master.m3u8?hdnea=exp=1793825710~acl=/*~id=58435287794788589925935872309888~hmac=c97df0ac92136d30cf24972d77b0728239070f276b2cd1f602391ae5cf74b37d
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st ODI - 4 Nov 2026 [TEL] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/master.m3u8?hdnea=exp=1793825710~acl=/*~id=58435287794788589925935872309888~hmac=c97df0ac92136d30cf24972d77b0728239070f276b2cd1f602391ae5cf74b37d
-
-#===== Willow | Sportlink (3 channels) =====
+#===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:32 PM 04-11-2026
+#LAST_UPDATE:11:02 PM 04-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
-#EXTINF:-1 tvg-id="B0HLMSF6ZN" tvg-name="India tour of New Zealand 2026 - 1st ODI - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.99ec681a-3141-49d1-8feb-512b02667fca/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",India tour of New Zealand 2026 - 1st ODI - New Zealand vs India
+#EXTINF:-1 tvg-id="B0HK3RP3SL" tvg-name="USA Seniors Cricket NPL 2026 - 1st Match - Houston Saints vs Seattle Moose" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac15ad3c-e15e-4bf6-9d0f-34f30bbd2600/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",USA Seniors Cricket NPL 2026 - 1st Match - Houston Saints vs Seattle Moose
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b7bebaee3bacc37f18cbc0224b595c02:32e48253d959a5202a384f50198367a9
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HMQLGGJ8" tvg-name="Womens Big Bash League 2026 - 9th Match - Hobart Hurricanes Women vs Melbourne Renegades Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3f5c03f-a9aa-4e4e-b278-f3902eb5e0de/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 9th Match - Hobart Hurricanes Women vs Melbourne Renegades Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3bbeb16c18d825f04b51b17b67baf5a:f744722c08e3d13fecfa59de5436cce7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd
-
-#===== Prime Video | Sportlink (4 channels) =====
+#===== Prime Video | Sportlink (5 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:02:32 PM 04-11-2026
+#LAST_UPDATE:11:02 PM 04-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
 
-#EXTINF:-1 tvg-id="B0HMPF2QBS" tvg-name="New Zealand vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3f469c59-a7e3-4104-be52-5a1a3ea1d0c5/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",New Zealand vs. India
+#EXTINF:-1 tvg-id="B0HN4P31ZX" tvg-name="Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.80d5455b-886e-4f95-9aa1-50a8784ccdc3/12/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Tennis Today Live-Paris-ATP & Chennai-WTA Early Rounds
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HNT4KQ3P" tvg-name="PPA Tour: World Championships-Round of 64" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c763bc8f-ac37-43fc-8007-c2a5822b6b36/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",PPA Tour: World Championships-Round of 64
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HK3RP3SL" tvg-name="USA Seniors Cricket NPL 2026 - 1st Match - Houston Saints vs Seattle Moose" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ac15ad3c-e15e-4bf6-9d0f-34f30bbd2600/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",USA Seniors Cricket NPL 2026 - 1st Match - Houston Saints vs Seattle Moose
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7bebaee3bacc37f18cbc0224b595c02:32e48253d959a5202a384f50198367a9
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HPL6YQSY" tvg-name="Houston Saints vs. Seattle Moose" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a748b095-8aa0-4ce6-b5e4-ebce4a290c2d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Houston Saints vs. Seattle Moose
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HLMSF6ZN" tvg-name="India tour of New Zealand 2026 - 1st ODI - New Zealand vs India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.99ec681a-3141-49d1-8feb-512b02667fca/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",India tour of New Zealand 2026 - 1st ODI - New Zealand vs India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pkooyxhqmr/out/v1/4c8d0ecc7d704eb2935efde33b289d50/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HMQLGGJ8" tvg-name="Womens Big Bash League 2026 - 9th Match - Hobart Hurricanes Women vs Melbourne Renegades Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3f5c03f-a9aa-4e4e-b278-f3902eb5e0de/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Womens Big Bash League 2026 - 9th Match - Hobart Hurricanes Women vs Melbourne Renegades Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3bbeb16c18d825f04b51b17b67baf5a:f744722c08e3d13fecfa59de5436cce7
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #===== AXS | Sportlink (1 channels) =====
 #name: Axsports Auto Update Playlist
