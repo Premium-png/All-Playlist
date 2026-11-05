@@ -1,57 +1,113 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (2 channels) =====
+#===== Fancode | Sportlink (7 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Thursday, 5 November 2026 at 6:14:14 am
+#DATE:- Thursday, 5 November 2026 at 1:56:12 pm
+
+#EXTINF:-1 tvg-id="4250527" tvg-name="West Indies Vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | West Indies Vs Bangladesh
+https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c6945842186_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249772" tvg-name="Zimbabwe Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Zimbabwe Vs Afghanistan
+https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83410465_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250368" tvg-name="Lumbini Lions Vs Janakpur Bolts" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250368_53124_LBL_JKB_fc-Web_1793616701591.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Lumbini Lions Vs Janakpur Bolts
+https://dai-fancode.pages.dev/mumbai/4250368_english_hls_7ea136c62c30127_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250397" tvg-name="Perth Scorchers Women Vs Sydney Thunder Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250397_53125_ST-W_PS-W_fc-web_1793352702086.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Perth Scorchers Women Vs Sydney Thunder Women
+https://dai-fancode.pages.dev/mumbai/4250397_english_hls_6c8073e58c25460_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250603" tvg-name="Round Of 16" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Round Of 16
 https://dai-fancode.pages.dev/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== Willow | Sportlink (2 channels) =====
+#EXTINF:-1 tvg-id="4250608" tvg-name="Day 1" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 1
+https://dai-fancode.pages.dev/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#===== SonyLIV | Sportlink (4 channels) =====
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Bangladesh vs Afghanistan - 5 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Churchill Brothers FC vs NorthEast United FC - 5 Nov 2026 [ENG] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Churchill Brothers FC vs NorthEast United FC - 5 Nov 2026 [HIN] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Abu Dhabi HSBC Championship - Day 1 - 5 Nov 2026 [ENG] - DP World Tour
+https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf
+
+#===== Willow | Sportlink (4 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:02 AM 05-11-2026
+#LAST_UPDATE:05:02 PM 05-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
-#EXTINF:-1 tvg-id="B0HLT5L53C" tvg-name="USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc7c6e05-e59b-410f-807b-697cacd0f841/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles
+#EXTINF:-1 tvg-id="B0HPY7NLSV" tvg-name="ACC Mens U19 Asia Cup 2026 - 2nd Match - Bangladesh U19 vs Afghanistan U19" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f27ac6f0-36de-4625-b95b-8d7a73a1a7bf/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens U19 Asia Cup 2026 - 2nd Match - Bangladesh U19 vs Afghanistan U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2640cee439724e435e786303ea9668f:f6109a1e9135a4aca6bf8ae4d761c51d
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a16f4890e1a9a95d009f657f9d6837bb:e6e66c827c8a8c7d212db25ee49652e2
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd
 
-#===== Prime Video | Sportlink (5 channels) =====
+#EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=502b22d3cada61e1dd3c24e4dc37b128:edbeec19a62d033903fe6436abfb9fd6
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HJYQBDZV" tvg-name="Womens Big Bash League 2026 - 11th Match - Sydney Thunder Women vs Perth Scorchers Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab810664-fc94-4c19-98c0-2ab16473a298/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 11th Match - Sydney Thunder Women vs Perth Scorchers Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2c92cec93ed53bbc297d9ab55ae4c72:6dfa3680190db85be7659d6faaac5d91
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd
+
+#===== Prime Video | Sportlink (7 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:09:02 AM 05-11-2026
+#LAST_UPDATE:05:02 PM 05-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:7
+#LIVE_COUNT:6
 #UPCOMING_COUNT:0
 
-#EXTINF:-1 tvg-id="B0HPZSW432" tvg-name="Texas State at Utah State" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d9f2a53c-34f7-4c56-995e-3905963bdbef/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Texas State at Utah State
+#EXTINF:-1 tvg-id="B0HQDPS1MH" tvg-name="2026 Hong Kong Tennis Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e8d3dccc-c05a-41f7-8dd5-8a82f323046e/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",2026 Hong Kong Tennis Open
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HFCYQCN8" tvg-name="ECHL Hockey: Allen Americans vs New Mexico Goatheads" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2ba592c2-a345-4d38-87c7-1685abb66f94/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",ECHL Hockey: Allen Americans vs New Mexico Goatheads
+#EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=502b22d3cada61e1dd3c24e4dc37b128:edbeec19a62d033903fe6436abfb9fd6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owwvfdrvyv/out/v1/f869fa34e09144a7961adf21ce46c323/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HLT5L53C" tvg-name="USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc7c6e05-e59b-410f-807b-697cacd0f841/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",USA Seniors Cricket NPL 2026 - 3rd Match - Austin Hunters vs Washington Eagles
+#EXTINF:-1 tvg-id="B0HPY7NLSV" tvg-name="ACC Mens U19 Asia Cup 2026 - 2nd Match - Bangladesh U19 vs Afghanistan U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f27ac6f0-36de-4625-b95b-8d7a73a1a7bf/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",ACC Mens U19 Asia Cup 2026 - 2nd Match - Bangladesh U19 vs Afghanistan U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2640cee439724e435e786303ea9668f:f6109a1e9135a4aca6bf8ae4d761c51d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsllmnzzjj/out/v1/275a953aa837465aaddb54d9ae09ef47/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a16f4890e1a9a95d009f657f9d6837bb:e6e66c827c8a8c7d212db25ee49652e2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0hfpjswn2b/out/v1/893e32416c4e4032af5750d252ece667/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HP16D5Q6" tvg-name="Austin Hunters vs. Washington Eagles" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.355b126b-d8d4-460b-84e5-769e51f16e25/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Austin Hunters vs. Washington Eagles
+#EXTINF:-1 tvg-id="B0HJYQBDZV" tvg-name="Womens Big Bash League 2026 - 11th Match - Sydney Thunder Women vs Perth Scorchers Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab810664-fc94-4c19-98c0-2ab16473a298/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Womens Big Bash League 2026 - 11th Match - Sydney Thunder Women vs Perth Scorchers Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2c92cec93ed53bbc297d9ab55ae4c72:6dfa3680190db85be7659d6faaac5d91
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fqfdmhym1j/out/v1/e07f7042e08e4cc8863b4038fc99a431/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HMVKNS1L" tvg-name="2026 Hong Kong Tennis Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.33f4dfda-8544-4596-ae57-55664b9ec74e/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",2026 Hong Kong Tennis Open
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HP6DD6KX" tvg-name="Sydney Thunder vs. Perth Scorchers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a3cd419-7ab6-4a53-85c9-2840a7881779/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Sydney Thunder vs. Perth Scorchers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
