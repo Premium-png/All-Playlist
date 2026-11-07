@@ -1,151 +1,146 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (7 channels) =====
+#===== Fancode | Sportlink (14 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 7 November 2026 at 11:14:17 am
+#DATE:- Saturday, 7 November 2026 at 7:14:22 pm
+
+#EXTINF:-1 tvg-id="4250372" tvg-name="Kathmandu Gurkhas Vs Lumbini Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250372_53124_KMG_LBL_fc-Web_1793616701587.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Kathmandu Gurkhas Vs Lumbini Lions
+https://dai-fancode.pages.dev/mumbai/4250372_english_hls_a1dc1fd74a86882_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250527" tvg-name="West Indies Vs Bangladesh" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | West Indies Vs Bangladesh
 https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458425280_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4250399" tvg-name="Melbourne Renegades Women Vs Adelaide Strikers Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250399_53125_MR-W_AS-W_fc-web_1793352702176.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Melbourne Renegades Women Vs Adelaide Strikers Women
-https://dai-fancode.pages.dev/mumbai/4250399_english_hls_7ae08ccf2949551_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249772" tvg-name="Zimbabwe Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Zimbabwe Vs Afghanistan
+https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83418752_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250745" tvg-name="Paratus Jets Vs Pupkewitz Wildcats" tvg-logo="https://images.fancode.com/aig/match/v1793949413006/4250745_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Paratus Jets Vs Pupkewitz Wildcats
+https://dai-fancode.pages.dev/mumbai/4250745_english_hls_b417730c511101_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250009" tvg-name="Wrexham A.f.c. Vs Wolverhampton Wanderers F.c." tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250009_52993_WRX_WOL_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Wrexham A.f.c. Vs Wolverhampton Wanderers F.c.
+https://dai-fancode.pages.dev/mumbai/4250009_english_hls_7a1ac51fff62815_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250264" tvg-name="Melbourne City Women Vs Beijing Jingtan Fc Women" tvg-logo="https://images.fancode.com/aig/match/v1793533399053/4250264_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Melbourne City Women Vs Beijing Jingtan Fc Women
+https://dai-fancode.pages.dev/mumbai/4250264_english_hls_c96fe8968375144_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250253" tvg-name="Bam Khatoon Fc Vs Ayeyawady Fc Women" tvg-logo="https://images.fancode.com/aig/match/v1793533399051/4250253_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Bam Khatoon Fc Vs Ayeyawady Fc Women
+https://dai-fancode.pages.dev/mumbai/4250253_english_hls_4d70f931d633537_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250755" tvg-name="Manchester City Women Vs West Ham United Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Manchester City Women Vs West Ham United Women
+https://dai-fancode.pages.dev/s3/8f509664-9a1d-48c4-b0a3-130d4e01a8f0/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250756" tvg-name="Chelsea F.c. Women Vs Everton Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Chelsea F.c. Women Vs Everton Women
+https://dai-fancode.pages.dev/s3/32f8c40e-5143-4bba-bf0c-75d809dfeb19/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250605" tvg-name="Semi Final" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Semi Final
 https://dai-fancode.pages.dev/mumbai/4250605_english_hls_263bfd45b59969_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4249853" tvg-name="Auckland Vs Wellington Phoenix" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249853_53101_AFC_WEL_fc-Web_1792223292106.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Auckland Vs Wellington Phoenix
-https://dai-fancode.pages.dev/mumbai/4249853_english_hls_2fc93ef8c037627_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139934" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Qatar-_GP_2026_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 2
+https://dai-fancode.pages.dev/mumbai/139934_english_hls_22c610ecab9000_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4250610" tvg-name="Day 3" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 3
-https://dai-fancode.pages.dev/mumbai/4250610_english_hls_4dc30906936029_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250570" tvg-name="Court Central" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Court Central
+https://dai-fancode.pages.dev/mumbai/4250570_english_hls_f720fe25b588128_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4249772" tvg-name="Zimbabwe Vs Afghanistan" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Zimbabwe Vs Afghanistan
-https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83418752_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250569" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | World Feed
+https://dai-fancode.pages.dev/mumbai/4250569_english_hls_a212cda0e532405_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (8 channels) =====
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd ODI - 7 Nov 2026 [ENG] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794077354~acl=/*~id=70516675790627355145064434572035~hmac=8769d42b2697a5d975f8155afa3663a7593a82d9752de56aa9a7fc6506d24117
+#===== SonyLIV | Sportlink (4 channels) =====
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [ENG] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd ODI - 7 Nov 2026 [HIN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794077354~acl=/*~id=70516675790627355145064434572035~hmac=8769d42b2697a5d975f8155afa3663a7593a82d9752de56aa9a7fc6506d24117
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [HIN] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd ODI - 7 Nov 2026 [TAM] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794077354~acl=/*~id=70516675790627355145064434572035~hmac=8769d42b2697a5d975f8155afa3663a7593a82d9752de56aa9a7fc6506d24117
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [TAM] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd ODI - 7 Nov 2026 [TEL] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794077354~acl=/*~id=70516675790627355145064434572035~hmac=8769d42b2697a5d975f8155afa3663a7593a82d9752de56aa9a7fc6506d24117
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [BEN] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd ODI - 7 Nov 2026 [KAN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794077354~acl=/*~id=70516675790627355145064434572035~hmac=8769d42b2697a5d975f8155afa3663a7593a82d9752de56aa9a7fc6506d24117
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995267058198_ACC_MensU19_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794077354~acl=/*~id=70516675790627355145064434572035~hmac=8769d42b2697a5d975f8155afa3663a7593a82d9752de56aa9a7fc6506d24117
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995227158198_ACC_MensU19_Afghanistan_vs_Malaysia_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Afghanistan vs Malaysia - 7 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794077354~acl=/*~id=70516675790627355145064434572035~hmac=8769d42b2697a5d975f8155afa3663a7593a82d9752de56aa9a7fc6506d24117
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Abu Dhabi HSBC Championship - Day 3 - 7 Nov 2026 [ENG] - DP World Tour
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794077354~acl=/*~id=70516675790627355145064434572035~hmac=8769d42b2697a5d975f8155afa3663a7593a82d9752de56aa9a7fc6506d24117
-
-#===== Willow | Sportlink (6 channels) =====
+#===== Willow | Sportlink (4 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:32 PM 07-11-2026
+#LAST_UPDATE:07:32 PM 07-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:5
-#UPCOMING_COUNT:15
-
-#EXTINF:-1 tvg-id="B0HNKB52ZX" tvg-name="India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d579999e-b24f-4858-8739-cf9a57ed3a01/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HLQ78QD4" tvg-name="Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4105473-29cb-4c06-af5c-03d8b080da6c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8034d996508ff5f2f3017d9e2a03d3e6:ce2d564ec40cf4a6423afcc93e28f2be
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0HMJFFMFG" tvg-name="ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ba1fbec-5219-427a-b408-5f6c67c0030a/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c70292ec5aeeabfafcbb4443924d0a4:cc6f131f2ddb87f645d045586ce0ecb7
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H96MRJVZ" tvg-name="ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.07f50fb2-33c9-43df-b334-1d757610adfa/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6285784b996a420f16710da94ed83846:94f2f4d5dffb2097ce56a43289d76662
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rwk2dindgf/out/v1/5866ccb3cf0a4702bb021d777d6787cc/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e9af61f4a7f6d5a8f27cd3b85cc9a1d:bafb7bbc65820a0d0a5f77a990db7b76
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HPWMMNBP" tvg-name="Abu Dhabi T10 League 2026 - 1st Match - UAE Bulls vs Yas Lions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5900bb5-c649-4223-ba98-485d7d264f17/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 1st Match - UAE Bulls vs Yas Lions
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14959da8f9875554b690371dac4e2e5f:bad6682edf4b318c0ba3501758fe8cb9
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd
 
 #===== Prime Video | Sportlink (8 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:32 PM 07-11-2026
+#LAST_UPDATE:07:32 PM 07-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:7
 #UPCOMING_COUNT:0
 
-#EXTINF:-1 tvg-id="B0HNKB52ZX" tvg-name="India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.d579999e-b24f-4858-8739-cf9a57ed3a01/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",India tour of New Zealand 2026 - 2nd ODI - New Zealand vs India
+#EXTINF:-1 tvg-id="B0HM7N447W" tvg-name="Bassmaster Redfish Cup at Port Aransas" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e7dfd46d-5b94-4fa8-91f0-0bf32de6a7da/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Bassmaster Redfish Cup at Port Aransas
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/lcjfpbsdxg/out/v1/0a93294385c14668baeba1b60de9f791/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0H96MRJVZ" tvg-name="ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.07f50fb2-33c9-43df-b334-1d757610adfa/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",ACC Mens U19 Asia Cup 2026 - 5th Match - Afghanistan U19 vs Malaysia U19
+#EXTINF:-1 tvg-id="B0HN7CNVG6" tvg-name="Chelsea vs. Everton" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.dfc5ac6a-de6d-4940-8531-f3af4dee062f/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Chelsea vs. Everton
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6285784b996a420f16710da94ed83846:94f2f4d5dffb2097ce56a43289d76662
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rwk2dindgf/out/v1/5866ccb3cf0a4702bb021d777d6787cc/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HMJFFMFG" tvg-name="ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.9ba1fbec-5219-427a-b408-5f6c67c0030a/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19
+#EXTINF:-1 tvg-id="B0HQB5DQNS" tvg-name="Triton Poker ONE Series Cyprus-$3K QQPK Genesis" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7100337b-67bc-4e19-8ee5-d68944d35cdf/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Triton Poker ONE Series Cyprus-$3K QQPK Genesis
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c70292ec5aeeabfafcbb4443924d0a4:cc6f131f2ddb87f645d045586ce0ecb7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0GZPVSC1H" tvg-name="NSW Phoenix vs. Perth Steel" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.5993b489-15e3-47e6-ae6e-0f4710dfe927/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",NSW Phoenix vs. Perth Steel
+#EXTINF:-1 tvg-id="B0HNXS2W3P" tvg-name="Semifinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.688cc55d-ad05-4af0-b6f0-71371fc6255f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Semifinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HCYD799P" tvg-name="Melbourne Renegades vs. Adelaide Strikers" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.6774bad9-b836-49f2-9784-f96adb7febc5/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Melbourne Renegades vs. Adelaide Strikers
+#EXTINF:-1 tvg-id="B0HPWMMNBP" tvg-name="Abu Dhabi T10 League 2026 - 1st Match - UAE Bulls vs Yas Lions" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.e5900bb5-c649-4223-ba98-485d7d264f17/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Abu Dhabi T10 League 2026 - 1st Match - UAE Bulls vs Yas Lions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=14959da8f9875554b690371dac4e2e5f:bad6682edf4b318c0ba3501758fe8cb9
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u5yu46v8qv/out/v1/ba3ef04be3ff4351bcee7c1c3f7f6043/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e9af61f4a7f6d5a8f27cd3b85cc9a1d:bafb7bbc65820a0d0a5f77a990db7b76
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HLQ78QD4" tvg-name="Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a4105473-29cb-4c06-af5c-03d8b080da6c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Womens Big Bash League 2026 - 13th Match - Melbourne Renegades Women vs Adelaide Strikers Women
+#EXTINF:-1 tvg-id="B0HMJFFMFG" tvg-name="ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.9ba1fbec-5219-427a-b408-5f6c67c0030a/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8034d996508ff5f2f3017d9e2a03d3e6:ce2d564ec40cf4a6423afcc93e28f2be
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4bwynjqz2z/out/v1/f7fc9b904ef044c68c652f0b5f4e8acf/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7c70292ec5aeeabfafcbb4443924d0a4:cc6f131f2ddb87f645d045586ce0ecb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd
 
 #===== AXS | Sportlink (1 channels) =====
 #name: Axsports Auto Update Playlist
